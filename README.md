@@ -1,3 +1,5 @@
+> **Team Pinoqio submission:** see [SOLUTION.md](SOLUTION.md).
+
 # A Judge That Learns from an Expert
 
 Infer an expert's evaluation rules from labeled conversations, then assign one of two labels to new conversations: `good` or `bad`. Evaluate the entire conversation. Any violation of an applicable rule makes the conversation `bad`.
